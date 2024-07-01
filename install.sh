@@ -21,7 +21,7 @@ gnuplot-x11 gir1.2-goocanvas-2.0 python3-gi python3-gi-cairo \
 python3-pygraphviz python3-numpy python3-scipy python3-matplotlib \
 python3-pandas python3-pygraphviz python3-sklearn python3-seaborn \
 libfltk1.3 libfltk1.3-dev python3-pybindgen cmake libc6-dev libc6-dev-i386 \
-libc6-i386 libclang-dev llvm-dev libc6-dev libc6-dev-i386 libclang-dev llvm-dev gdb  2> /dev/null
+libc6-i386 libclang-dev llvm-dev libc6-dev libc6-dev-i386 libclang-dev llvm-dev gdb wget 2> /dev/null
 
 
 # install ns-3
